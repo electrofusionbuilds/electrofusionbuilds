@@ -29,11 +29,11 @@ Beyond academics, I run **ElectrofusionBuilds**, a creator platform and YouTube 
 ---
 
 ## 📺 Connect With My Work
-* **YouTube:** [ElectrofusionBuilds](PASTE_YOUR_YOUTUBE_LINK_HERE) - Video tutorials and project demonstrations.
-* **Facebook Page:** [ElectrofusionBuilds Page](PASTE_YOUR_FACEBOOK_PAGE_LINK_HERE) - Store updates, community builds, and short clips.
-* **Professional Network:** [LinkedIn Profile](PASTE_YOUR_LINKEDIN_LINK_HERE) - Academic background and networking.
+* **YouTube:** [ElectrofusionBuilds](https://www.youtube.com/@ElectrofusionBuilds) - Video tutorials and project demonstrations.
+* **Facebook Page:** [ElectrofusionBuilds Page](https://www.facebook.com/electrofusionstrore) - Store updates, community builds, and short clips.
+* **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/md-ehtishab-ferdous-037a15367) - Academic background and networking.
 
 ---
 
 ## 🏆 Achievements & Certificates
-![BUET Project Exhibition](Photos/Buet.jpg)
+![BUET RoboCarnival 2026](Photos/Buet.jpg)
