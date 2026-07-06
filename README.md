@@ -36,4 +36,4 @@ Beyond academics, I run **ElectrofusionBuilds**, a creator platform and YouTube 
 ---
 
 ## 🏆 Achievements & Certificates
-*Add any notable academic honors, engineering project exhibition wins, or major tech certifications here!*
+![Descriptive Title](Photos/Buet.png)
