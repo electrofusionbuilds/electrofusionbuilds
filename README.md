@@ -39,3 +39,4 @@ Beyond academics, I run **ElectrofusionBuilds**, a creator platform and YouTube 
 ![Portfolio Cover Image](./Photos/Md_Ehtishab_Ferdous_page-0001.jpg)
 ![Portfolio Cover Image](./Photos/Md_Ehtishab_Ferdous(1)_page-0001.jpg)
 ![Portfolio Cover Image](./Photos/CamScanner_09-10-2026_18.32_01.jpg)
+![Portfolio Cover Image](./Photos/CamScanner_09-10-2026_18.32_04.jpg)
