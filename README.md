@@ -36,4 +36,3 @@ Beyond academics, I run **ElectrofusionBuilds**, a creator platform and YouTube 
 ---
 
 ## 🏆 Achievements & Certificates
-![BUET RoboCarnival 2026](Photos/Buet.jpg)
