@@ -36,3 +36,4 @@ Beyond academics, I run **ElectrofusionBuilds**, a creator platform and YouTube 
 ---
 
 ## 🏆 Achievements & Certificates
+![Portfolio Cover Image](./Photos/Md. Ehtishab Ferdous_page-0001.jpg)
